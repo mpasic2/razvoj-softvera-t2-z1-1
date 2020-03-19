@@ -1,0 +1,11 @@
+.root{
+    -fx-background-color: pink;
+}
+#helloWorld {
+    -fx-font-size:25;
+}
+#dugme{
+    -fx-border-radius:15;
+    -fx-border-color: black;
+    -fx-background-color: lightgrey;
+}
